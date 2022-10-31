@@ -1,5 +1,5 @@
 # About
-- This repo simply has some of my notes and test files regarding C pointers, arrays and strings
+- This repo simply has some of my notes and test files regarding C pointers, arrays and strings from personal studies
 
 ## Pointers
 - These are variables containing a memory address
